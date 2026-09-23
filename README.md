@@ -53,7 +53,7 @@ jupyter notebook implementation.ipynb
 
 Run the cells in order to define the synthesis functions and generate the examples.
 
-## Scope and current limitation
+## Scope
 
 This is an educational implementation using explicitly supplied parity vectors and phase coefficients. It does not implement the full benchmark pipeline or the search over equivalent phase functions discussed in [1].
 
