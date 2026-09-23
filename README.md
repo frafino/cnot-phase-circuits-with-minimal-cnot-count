@@ -59,12 +59,8 @@ This is an educational implementation using explicitly supplied parity vectors a
 
 <a id="ref-1"></a>
 
-1. **Matthew Amy, Parsiad Azimzadeh, and Michele Mosca.** *On the controlled-NOT complexity of controlled-NOT–phase circuits.* Quantum Science and Technology **4**, 015002. Published online in 2018. [DOI: 10.1088/2058-9565/aad8ca](https://doi.org/10.1088/2058-9565/aad8ca) · [arXiv:1712.01859](https://arxiv.org/abs/1712.01859).
-   Source of the parity-network framework and Gray-Synth algorithm used in this project.
+1. **Matthew Amy, Parsiad Azimzadeh, and Michele Mosca.** *On the controlled-NOT complexity of controlled-NOT–phase circuits.* Quantum Science and Technology, vol. 4, no. 1, Art. no. 015002, 2018. doi: 10.1088/2058-9565/aad8ca. [arXiv:1712.01859](https://doi.org/10.48550/arXiv.1712.01859).
 
 <a id="ref-2"></a>
 
 2. **Ketan N. Patel, Igor L. Markov, and John P. Hayes.** *Efficient Synthesis of Linear Reversible Circuits.* 2003. [arXiv:quant-ph/0302002](https://arxiv.org/abs/quant-ph/0302002).
-   Source of the linear reversible synthesis method used to decompose binary linear transformations into CNOT gates.
-
-The accompanying papers are the work of their respective authors and are included as references for this course project.
